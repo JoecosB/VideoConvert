@@ -4,3 +4,9 @@ Very strange video converter, converts .mp4 video into text and displays. Works 
 
 ## Tips
 Before using the converter, please make sure you've got the .mp4 file in the same folder with run.sh, or it won't work. Only one MP4 file at a time. The converted text-frames would be huge, so don't convert MP4 videos that's too big.
+
+## Examples
+### example_01
+![image](examples/pics/converted_01.png)
+### example_02
+![image](examples/pics/converted_02.png)
