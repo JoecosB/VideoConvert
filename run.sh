@@ -1,3 +1,6 @@
+pipenv install
+pipenv shell
+
 cd "$(dirname "$0")"/scripts
 printf '\e[8;57;200t'
 
